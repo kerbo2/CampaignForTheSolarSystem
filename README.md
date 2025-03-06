@@ -1,2 +1,2 @@
 # CampaignForTheSolarSystem
- vassal implementation of CSA
+ vassal implementation of Campaign for the Solar System
