@@ -6,6 +6,7 @@ A vassal implementation of Campaign for the Solar System. Best played with 4 pla
 
 
 *V0.9 is the most up to date version and contains fixes for major resource calculation issues from earlier versions.*
+
 *V0.8 represents the first playable build.*
 
 
