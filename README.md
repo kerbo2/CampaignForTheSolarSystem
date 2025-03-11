@@ -3,6 +3,8 @@
 A vassal implementation of Campaign for the Solar System. Best played with 4 players but it can work with 2 or 3. System, ruleset, lore and orbital system/map layout by Kaydevs. Vassal implementation by me w/ testing and design help from friends :)
 
 -CHANGELOG-
+
+
 *V0.9 is the most up to date version and contains fixes for major resource calculation issues from earlier versions.*
 *V0.8 represents the first playable build.*
 
