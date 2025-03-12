@@ -4,7 +4,7 @@ A vassal implementation of Campaign for the Solar System. Best played with 4 pla
 
 -CHANGELOG-
 
-*0.95 introduces a rework of the production info UI and has improved ship graphics/info.*
+*V0.95 introduces a rework of the production info UI and has improved ship graphics/info.*
 
 *V0.9 is the most up to date version and contains fixes for major resource calculation issues from earlier versions.*
 
