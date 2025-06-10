@@ -6,11 +6,11 @@ A vassal implementation of Campaign for the Solar System. Best played with 4 pla
 
 *V0.98 fixes some lingering production bugs.*
 
-*V0.95 introduces a rework of the production info UI and has improved ship graphics/info.*
+*V0.95 introduced a rework of the production info UI and has improved ship graphics/info.*
 
-*V0.9 is the most up to date version and contains fixes for major resource calculation issues from earlier versions.*
+*V0.9 contained fixes for major resource calculation issues from earlier versions.*
 
-*V0.8 represents the first playable build. Multiple production related bugs*
+*V0.8 represented the first playable build. Multiple production related bugs*
 
 
 
